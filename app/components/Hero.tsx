@@ -1,12 +1,9 @@
 export function Hero() {
   return (
-    <section
-      id="top"
-      className="flex flex-col gap-8 pt-2"
-    >
+    <section id="top" className="flex flex-col gap-8 pt-2">
       <div className="flex flex-col gap-2">
         <h1 className="font-mono text-4xl font-semibold tracking-tight text-text-primary sm:text-5xl lg:text-6xl">
-          Firstname Lastname
+          Christian Wolff
         </h1>
         <h2 className="font-mono text-3xl font-semibold text-secondary sm:text-5xl">
           Computer Science
